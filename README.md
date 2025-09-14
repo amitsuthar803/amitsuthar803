@@ -51,10 +51,10 @@ My frontend expertise goes beyond coding — it’s about thinking through user 
 <div align="center">
   <!-- WordPress -->
   <img src="https://skillicons.dev/icons?i=wordpress" alt="WordPress" height="48" style="margin: 0 10px;" />
-  
+   <br>
   <!-- Shopify -->
   <img src="https://github.com/amitsuthar803/amitsuthar803/blob/main/assets/shopify.png" alt="Shopify" height="48" style="margin: 0 10px;" />
-  
+   <br>
   <!-- Wix -->
   <img src="https://github.com/amitsuthar803/amitsuthar803/blob/main/assets/wix.png" alt="Wix" height="48" style="margin: 0 10px;" />
 </div>
