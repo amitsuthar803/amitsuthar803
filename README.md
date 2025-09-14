@@ -37,14 +37,14 @@ My frontend expertise goes beyond coding — it’s about thinking through user 
 
 **Languages & Frameworks (Strong):**
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,html,css" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express," />
   <br>
-  <img src="https://skillicons.dev/icons?i=mongodb,tailwind,figma,photoshop,illustrator" />
+  <img src="https://skillicons.dev/icons?i=mongodb,tailwind,py,figma,photoshop,illustrator" />
 </div>
 
 **Currently Learning:**
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=threejs,flutter,graphql,docker,typescript" />
+  <img src="https://skillicons.dev/icons?i=threejs,dart,django" />
 </div>
 
 **Platforms & Experience:**
