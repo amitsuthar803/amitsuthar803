@@ -48,16 +48,17 @@ My frontend expertise goes beyond coding — it’s about thinking through user 
 </div>
 
 **Platforms & Experience:**
-<div align="center">
+<div align="center" style="display: flex; justify-content: center; gap: 20px;">
   <!-- WordPress -->
-  <img src="https://skillicons.dev/icons?i=wordpress" alt="WordPress" height="48" style="margin: 0 10px;" />
-   <br>
+  <img src="https://skillicons.dev/icons?i=wordpress" alt="WordPress" height="48" />
+  
   <!-- Shopify -->
-  <img src="https://github.com/amitsuthar803/amitsuthar803/blob/main/assets/shopify.png" alt="Shopify" height="48" style="margin: 0 10px;" />
-   <br>
+  <img src="https://github.com/amitsuthar803/amitsuthar803/blob/main/assets/shopify.png" alt="Shopify" height="48" />
+  
   <!-- Wix -->
-  <img src="https://github.com/amitsuthar803/amitsuthar803/blob/main/assets/wix.png" alt="Wix" height="48" style="margin: 0 10px;" />
+  <img src="https://github.com/amitsuthar803/amitsuthar803/blob/main/assets/wix.png" alt="Wix" height="48" />
 </div>
+
 
 **Environments & Tools:**
 <div align="center">
