@@ -1,7 +1,8 @@
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"> Hi there, I'm Amit!
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=32&center=true&vCenter=true&width=600&height=100&duration=3000&pause=1000&color=58A6FF&lines=Full-Stack+Developer;Creative+Designer;MERN+Stack+Enthusiast;UI%2FUX+Designer" />
+ <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=28&center=true&vCenter=true&width=800&height=90&duration=2200&pause=800&color=58A6FF&lines=Full-Stack+Developer;Frontend+Specialist;WordPress+%2F+Wix+%2F+Shopify+Expert;UI+Lover+%26+Creative+Designer" />
+
 </div>
 
 💻 **Full-Stack Developer** | 🎨 **Creative Designer**  
